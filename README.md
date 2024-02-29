@@ -61,3 +61,10 @@ By providing more accurate climate models and optimizing renewable energy resour
 
 ## Conclusion
 The exploration of quantum algorithms like Shor's and Grover's reveals just the tip of the iceberg in quantum computing's potential. By tackling complex problems from cryptography to personalized medicine and environmental sustainability, quantum computing is set to redefine the boundaries of what's computationally achievable. As research and technology advance, the integration of quantum computing into our lives could usher in a new era of innovation and problem-solving capabilities.
+
+***
+##### References
+* [40 years of quantum computing](https://www.nature.com/articles/s42254-021-00410-6)
+* [IBM: What is quantum computing](https://www.ibm.com/topics/quantum-computing)
+* [Quantum computing: An emerging ecosystem and industry use cases](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/quantum%20computing%20use%20cases%20are%20getting%20real%20what%20you%20need%20to%20know/quantum-computing-an-emerging-ecosystem.pdf)
+* [Explaining the Concepts of Quantum Computing](https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-quantum-computing)
